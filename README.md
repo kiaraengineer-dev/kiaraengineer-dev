@@ -1,14 +1,14 @@
-# 👩‍💻 Estudante e Desenvolvedora Front-End em Ascensão 🚀
+# 👩‍💻 Desenvolvedora Front-End em Formação
 
-Atualmente estou focada no estudo e na aplicação prática de tecnologias fundamentais para desenvolvimento web: **HTML**, **CSS**, **JavaScript** e **React**. Minha jornada inclui a construção de projetos reais que consolidam esses conhecimentos, preparando-me para desafios do mercado.
+Olá! Sou a Kiara, estudante de Engenharia de Software com foco em desenvolvimento Front-End.
 
-Além disso, possuo experiência em design e prototipação com **Figma**, o que me ajuda a entender melhor a criação de interfaces intuitivas e agradáveis para o usuário.
+💻 No momento, estou aprofundando meus conhecimentos em tecnologias como HTML, CSS, JavaScript e React, por meio de projetos práticos e estudos constantes.
 
-Sou dedicada ao aprendizado contínuo e também estudo o uso profissional de **GitHub**, entendendo a importância do versionamento e colaboração em projetos de software.
+🎨 Tenho experiência com Figma, o que fortalece minha capacidade de criar interfaces modernas, responsivas e com boa usabilidade.
 
-Já concluí diversos cursos com certificados reconhecidos, que atestam meu comprometimento e competência na área de desenvolvimento web.
+🛠️ Estudo também Git e GitHub, valorizando a importância do versionamento e da colaboração em projetos.
 
-Estou sempre aberta a novos desafios, colaborações e oportunidades para crescer como desenvolvedora Front-End e entregar soluções de qualidade.
+📜 Já concluí diversos cursos com certificados, demonstrando meu comprometimento em evoluir profissionalmente.
 
 ---
 
