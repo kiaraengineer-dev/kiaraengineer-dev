@@ -1,7 +1,4 @@
 # 👩‍💻 Desenvolvedora Front-End em Formação
-
-Olá! Sou a Kiara, estudante de Engenharia de Software com foco em desenvolvimento Front-End.
-
 ---
 
 ## 💻 Tecnologias que estudo e aplico
