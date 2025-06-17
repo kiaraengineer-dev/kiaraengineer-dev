@@ -2,14 +2,6 @@
 
 Olá! Sou a Kiara, estudante de Engenharia de Software com foco em desenvolvimento Front-End.
 
-💻 No momento, estou aprofundando meus conhecimentos em tecnologias como HTML, CSS, JavaScript e React, por meio de projetos práticos e estudos constantes.
-
-🎨 Tenho experiência com Figma, o que fortalece minha capacidade de criar interfaces modernas, responsivas e com boa usabilidade.
-
-🛠️ Estudo também Git e GitHub, valorizando a importância do versionamento e da colaboração em projetos.
-
-📜 Já concluí diversos cursos com certificados, demonstrando meu comprometimento em evoluir profissionalmente.
-
 ---
 
 ## 💻 Tecnologias que estudo e aplico
@@ -20,14 +12,6 @@ Olá! Sou a Kiara, estudante de Engenharia de Software com foco em desenvolvimen
 - ⚛️ React.js  
 - 🖌️ Figma (Design e prototipação)  
 - 🗂️ Git e GitHub  
-
----
-
-## 📞 Contato
-
-- 🔗 GitHub: (https://github.com/kiaraengineer-dev)  
-- 💼 LinkedIn: (https://www.linkedin.com/in/kiara-toster-90538a1b5/)  
-- 📧 Email: kiaraengineer.dev@gmail.com  
 
 ---
 
