@@ -1,14 +1,4 @@
-# 👩‍💻 Desenvolvedora Front-End em Formação
----
-
-## 💻 Tecnologias que estudo e aplico
-
-- 🌐 HTML5  
-- 🎨 CSS3  
-- ⚙️ JavaScript (ES6+)  
-- ⚛️ React.js  
-- 🖌️ Figma (Design e prototipação)  
-- 🗂️ Git e GitHub  
+Olá! Sou a Kiara, estudante de Engenharia de Software com foco em desenvolvimento Front-End.
 
 ---
 
