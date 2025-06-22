@@ -3,9 +3,14 @@
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kiaraengineer-dev&show_icons=true&count_private=true&title=kiaraengineer-dev&title_color=FACC15&text_color=E0E0E0&icon_color=FACC15&bg_color=0D1117&border_color=FACC15" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiaraengineer-dev&layout=compact&text_color=E0E0E0&title_color=FACC15&icon_color=FACC15&bg_color=0D1117&border_color=FACC15" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kiaraengineer-dev&show_icons=true&count_private=true&title=kiaraengineer-dev&title_color=9B59B6&text_color=E91E63&icon_color=9B59B6&bg_color=000000&border_color=222222" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiaraengineer-dev&layout=compact&text_color=E91E63&title_color=9B59B6&icon_color=9B59B6&bg_color=000000&border_color=222222" />
 </div>
+
+
+
+
+
 
 
 ---
