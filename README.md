@@ -22,6 +22,21 @@
 </p>
 
 
+<br/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kiara-toster-90538a1b5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:kiaraengineer.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/E--mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://discordapp.com/users/1386162723473199204" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
+
+
 
 
           
