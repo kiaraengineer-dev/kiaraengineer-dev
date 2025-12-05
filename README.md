@@ -1,4 +1,4 @@
- 🛠️ Olá! Sou a Kiara, estudante de Engenharia de Software com foco em desenvolvimento Front-End. 
+  Olá! Sou a Kiara, estudante de Engenharia de Software com foco em desenvolvimento Front-End. 
 
 ---
 
