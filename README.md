@@ -1,18 +1,17 @@
-👋 Olá, eu sou a Kiara Toster.
- 
- 💻 Desenvolvedora Front-End focada em criar interfaces modernas, responsivas e intuitivas.
- 
+
+# ✨ Olá, eu sou a Kiara Toster
+
+💻 Desenvolvedora Front-End focada em criar interfaces modernas, responsivas e intuitivas.
+
 🚀 Experiência com React, JavaScript, Tailwind CSS e integração com APIs, Supabase e Firebase.
 
----
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kiaraengineer-dev&show_icons=true&count_private=true&title=kiaraengineer-dev&title_color=9B59B6&text_color=E91E63&icon_color=9B59B6&bg_color=000000&border_color=222222" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiaraengineer-dev&layout=compact&text_color=E91E63&title_color=9B59B6&icon_color=9B59B6&bg_color=000000&border_color=222222" />
-</div>
 
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kiaraengineer-dev&theme=default&background=000000&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff" />
+</p>
+
+
 
 
 <p align="center">
