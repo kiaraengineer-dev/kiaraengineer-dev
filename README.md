@@ -1,9 +1,9 @@
 
 # ✨ Olá, eu sou a Kiara Toster
 
- {*Desenvolvedora Front-End focada em criar interfaces modernas, responsivas e intuitivas.
+ {* Desenvolvedora Front-End focada em criar interfaces modernas, responsivas e intuitivas.
 
- Experiência com React, JavaScript, Tailwind CSS e integração com APIs, Supabase e Firebase*}
+ Experiência com React, JavaScript, Tailwind CSS e integração com APIs, Supabase e Firebase *}
 
 
 
